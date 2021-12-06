@@ -10,3 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Zesty Market empowers entrepreneurs and creators with tooling that facilitates commerce in the metaverse.
+
+We're doing a lot of different things right now, but the best way to get started is by joining our Discord here: https://discord.gg/7d7agTbmKf
