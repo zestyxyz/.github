@@ -13,4 +13,4 @@
 
 Zesty Market empowers entrepreneurs and creators with tooling that facilitates commerce in the metaverse.
 
-We're doing a lot of different things right now, but the best way to get started is by joining our Discord here: https://discord.gg/7d7agTbmKf
+The best way to get in touch with us is by joining our Discord here: https://discord.gg/7d7agTbmKf
