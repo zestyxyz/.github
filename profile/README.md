@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Zesty Market empowers entrepreneurs and creators with tooling that facilitates commerce in the metaverse.
+Building infrastructure and monetization solutions for the open metaverse.
 
 The best way to get in touch with us is by joining our Discord here: https://discord.gg/7d7agTbmKf
