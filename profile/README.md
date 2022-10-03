@@ -11,6 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Building the spatial web at the intersection of web3 and XR.
+Zesty is building the data layer for the metaverse through interoperable monetization SDKs and distributed beacon networks.
 
-The best way to get in touch with us is by joining our Discord here: https://discord.gg/7d7agTbmKf
+If you're interested in contributing, please get in touch with us by joining our Discord here: https://discord.gg/7d7agTbmKf
+
+Our docs are here: https://docs.zesty.market
