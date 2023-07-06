@@ -11,8 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We're on a mission to make it easier to build and run a business in the metaverse. Today, we make this possible with our monetization solution, which is already enabling a few passionate game developers using our Zesty SDK to make enough money to pay rent every month. We are currently exploring ways in which more users of XR headsets can turn their hardware into devices they can use to grow revenue for their businesses.
+Zesty’s mission is to grow the economy of the spatial web, which means:
 
-If what we're doing is of interest to you, please get in touch with us by emailing us at elijah@zesty.xyz
+1. Enabling new and existing creators to make a living by building for the spatial web, whether these are spatial apps or content.
+2. Onboarding businesses to the spatial web to provide products and services to users already in the ecosystem.
 
-Our docs are here: https://docs.zesty.market
+Today, we make these things possible with our monetization solution, which is already enabling a few passionate game developers using our Zesty SDK to make enough money to pay rent every month.
