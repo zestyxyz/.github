@@ -11,9 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Zesty’s mission is to grow the economy of the spatial web, which means:
+Zesty’s mission is to grow the economy of the spatial internet, which means:
 
-1. Enabling new and existing creators to make a living by building for the spatial web, whether these are spatial apps or content.
-2. Onboarding businesses to the spatial web to provide products and services to users already in the ecosystem.
+1. Enabling creators to make a living by building for the spatial internet, and,
+2. Onboarding businesses so they can provide additional products and services to our ecosystem.
 
-Today, we make these things possible with our monetization solution.
+Today, we make these things possible with a monetization solution.
