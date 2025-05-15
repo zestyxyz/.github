@@ -17,3 +17,5 @@ Zesty’s mission is to grow the economy of the spatial internet, which means:
 2. Onboarding businesses so they can provide additional products and services to our ecosystem.
 
 Today, we make these things possible with a monetization solution.
+
+CA: BCfQdS9utvouKSYatfUTDQwSFrhWDZz6ToBNkW1pSokU
